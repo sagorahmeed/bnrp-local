@@ -1,6 +1,5 @@
 'use client'
 
-// import Link from "next/link";
 import Button from "../button";
 import LocaleSwitcher from "../LocaleSwitcher";
 import Logo from "../logo";
@@ -15,7 +14,7 @@ const ScrolledNavbar = ({ showStickyNav, isMenuOpen, toggleMenu }) => {
     const btnTextF = useTranslations('Common')
 
 
-    const normalizedPath = pathName.replace('/de', '');
+    const normalizedPath = pathName.replace('/bn', '');
     const isActive = (href) => normalizedPath === href;
 
     const getLinkColor = (href) => {

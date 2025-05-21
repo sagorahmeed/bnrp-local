@@ -13,7 +13,7 @@ const InitialNavbar = ({ isMenuOpen, toggleMenu }) => {
     const btnTextF = useTranslations('Common')
     const pathName= usePathname()
 
-    const normalizedPath = pathName.replace('/de', '');
+    const normalizedPath = pathName.replace('/bn', '');
     const isActive = (href) => normalizedPath === href;
 
     const getLinkColor = (href) => {
@@ -31,7 +31,7 @@ const InitialNavbar = ({ isMenuOpen, toggleMenu }) => {
             <div className="flex items-center justify-between lg:py-[18px] py-[10px]">
                 {/* Logo */}
                 <div className="flex items-center justify-between gap-10">
-                    {pathName === '/de' || pathName === '/en' ?
+                    {pathName === '/bn' || pathName === '/en' ?
                          <div>
                              <Logo src={'/header/logo-white.svg'} className="lg:block hidden" />
                              <Logo src={'/Logo.svg'} className="lg:hidden block"/>
@@ -93,7 +93,7 @@ const InitialNavbar = ({ isMenuOpen, toggleMenu }) => {
                 {/* Right Section (Desktop) */}
                 <div className="hidden items-center gap-3 lg:flex">
                     <LocaleSwitcher isNavbarBgWhite={true}/>
-                    <Button title={btnTextF('btnText')} type="outline" className={`${pathName === '/de' || pathName === '/en' ? 'border-[1px] !border-white text-white' : ''}`}/>
+                    <Button title={btnTextF('btnText')} type="outline" className={`${pathName === '/bn' || pathName === '/en' ? 'border-[1px] !border-white text-white' : ''}`}/>
                 </div>
             </div>
         </header>

@@ -3,14 +3,15 @@ import {setRequestLocale} from 'next-intl/server';
 import {use} from 'react';
 import Link from "next/link";
 import React from "react";
-// import Description from "@/components/Description";
+import Description from "@/components/Description";
 import ServiceDetails from '@/components/serviceDetails'
 import ChiefDetails from "@/components/chiefDetails";
-// import GallerySwiper from "@/components/gallery/GallerySwiper";
+import GallerySwiper from "@/components/gallery/GallerySwiper";
 import FAQ from "@/components/faq";
 // import Header from "@/components/gallery/Header";
 import Button from "@/components/button";
 import {useTranslations} from "next-intl";
+import Header from '@/components/gallery/Header';
 
 type Props = {
   params: Promise<{locale: Locale}>;
@@ -48,10 +49,10 @@ export default function Page({params}: Props) {
 
 
   return (
-    <section className="lg:pb-[96px] md:pb-[76px] pb-[64px] lg:pt-[64px] pt-[54px]">
+    <section className="lg:pb-[96px] md:pb-[76px] pb-[64px] lg:pt-[64px] !pt-[184px]">
             <div className='bnrp-container'>
                 <h2 className='mx-auto max-w-[768px] text-center'>{t('title')}</h2>
-                {/* <Description className='mx-auto mt-6 max-w-[768px] text-center' title={t("description")}/> */}
+                <Description className='mx-auto mt-6 max-w-[768px] text-center' title={t("description")} isTextWhite={undefined}/>
                 <ul className='sm:grid grid-cols-3 gap-8 py-[96px]'>
                     {serviceOverView.map((item, i) => (
                         <li key={i}>
@@ -77,11 +78,11 @@ export default function Page({params}: Props) {
                 </div>
             </div>
             <div className='space-container'>
-                {/* <div className='bnrp-container'>
+                <div className='bnrp-container'>
                     <Header/>
-                </div> */}
+                </div>
                 <div className='mt-[64px] overflow-hidden'>
-                    {/* <GallerySwiper/> */}
+                    <GallerySwiper/>
                     <div className='bnrp-container'>
                         <Link href={'/gallery'}>
                             <Button title={gt('btnText')}
