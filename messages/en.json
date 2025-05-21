@@ -1,0 +1,206 @@
+{
+
+
+  "Home" : {
+    "Hero" : {
+      "title" : "BANGLADESH NAVY RESETTLEMENT PROJECT (BNRP) Your New Life Begins Here",
+      "description" : "Join BNRP Community and Let's Start New a Life.Sign up with your Navy ID for free and get started today",
+      "contact-btn" : "Contact",
+      "download-btn" : "Download app"
+    },
+
+
+    "Service" : {
+      "label1" : "Job listings",
+      "label2" : "Broadcasts",
+      "label3" : "Training",
+      "label4" : "Gallery "
+    },
+
+    "ServiceDetails" : {
+      "title" : "Bangladesh Navy Resettlement Program",
+      "titleDesc" : "Bangladesh Navy Resettlement Project (BNRP) has been launched to resettle retired military and civilian officers, employees and sailors. We regularly help in employment, business, rehabilitation etc. with various types of information. We rehabilitate on a case-by-case basis. We also mediate/facilitate various types of training, certification and communication.",
+      "subTitle" : "Job opportunities.",
+      "subDesc" : "The job listings section offers exclusive career opportunities for Bangladesh Navy Veteran, recognizing their experience.",
+      "subTitle2" : "Training opportunities.",
+      "subDesc2" : "The training section helps Bangladesh Navy Veteran enhance their skills and create new career opportunities."
+    },
+
+    "ChiefDetails" : {
+      "chiefBio" : "CHIEF OF NAVAL STAFF",
+      "chiefName" : "ADMIRAL M NAZMUL HASSAN, OSP, NPP, ndc, ncc, psc",
+      "chiefBioDataDetails" : "Admiral M Nazmul Hassan, OSP, NPP, ndc, ncc, psc assumed the command of Bangladesh Navy as the 17th Chief of Naval Staff on 24th July 2023. Born on 2nd February 1967, the Admiral is a second-generation Military officer. Throughout his four-decade-long and illustrious career, he has demonstrated exemplary military acumen and leadership skills. He has commanded all types of naval ships, establishment and held appointments at higher headquarters with utmost dedication and success..\nAdmiral Nazmul has received extensive professional training in military strategies, operations, command and leadership from both at home and abroad. Some of his major professional courses include the \"Naval Command Course\" and “Naval Staff Course” at Naval War College, USA. He is a graduate of Defence Services Command and Staff College and an alumnus of National Defence College, Mirpur. The officer attained his specialization in Navigation from India. His academic qualifications include a Bachelor of Science degree from Chattogram University and Masters in Defence Studies from National University, Bangladesh.\nThe Admiral, being a passionate seafarer, proved himself worthy of being entrusted with the command responsibilities from the very early stage of his career in the Navy. He held the most coveted operational command of Bangladesh Navy Fleet as COMBAN. During his early career, he has successfully commanded a number of ships including Training Frigate BNS UMAR FAROOQ. His other operational command experiences include Commodore Naval Aviation and Commander of Special Forces (SWADS). As a senior staff officer, he served as Director Naval Operations and Director Naval Intelligence at the Naval Headquarters. He was also appointed as Director General, Civil-Military Relations at the Armed Forces Division. Before taking over the helm of the Navy, he was appointed as Assistant Chief of Naval Staff Personnel and Operations respectively.\nAs the Commander Chattogram Naval Area (COMCHIT), he commanded the largest naval area. During his tenure as COMCHIT, he performed a pivotal role in the International Fleet Review (IFR) 2022 and organized the same. Previously he was also appointed as the Commandant, Bangladesh Naval Academy.\nIn the international arena, Admiral Nazmul has extensively represented Bangladesh Navy in overseas engagements, including several international seminars and naval exercises. He is a proud \"Blue Flag\" bearer as a member of the UN in former Yugoslavia. The admiral is a proven diplomat too. He served as the High Commissioner of Bangladesh to the Republic of Maldives. As the High Commissioner, he made significant contributions towards the development of bilateral ties between Bangladesh and the Maldives.\nThe Admiral was awarded the ‘Extraordinary Service Medal’ (OSP) for his outstanding professional excellence. He was also adorned with the ‘Navy Efficiency Medal’ (NPP) – for his extra-ordinary academic performance and meritorious contribution to the service.\nAdmiral Nazmul is married to Nadia Sultana, who is serving as President, Bangladesh Navy Family Welfare Association and Chief Patron BN Ladies Club. They are blessed with a son and a daughter.  Admiral Nazmul is a vivid reader and a keen golfer.",
+      "btnText" : "Show more",
+      "btnText2" : "Show less "
+    },
+
+    "FeaturesDetails" : {
+      "featuresTitle" : "One app, all the opportunities",
+      "FeaturesDetailsLists" : {
+        "title1" : "Job listings",
+        "desc1" : "Our job board offers exclusive access to career paths that recognize and reward your Navy experience.",
+        "title2" : "Training",
+        "desc2" : "Exclusive training programs stand out in the job market with industry-recognized certifications. ",
+        "title3" : "Broadcasts",
+        "desc3" : "Important updates at a glance. Stay connected with timely news and broadcasts to keep you informed.",
+        "title4" : "Event gallery",
+        "desc4" : "Liberation war, Birth of BN and present activities of BN are projected in this section with several photography’s."
+      }
+    },
+
+    "FAQ" : {
+      "faqTitle" : "Frequently Asked Questions",
+      "faqDetails" : {
+        "question": "ho can join this program?",
+        "answer": "If you are a retired Bangladesh Navy personnel and have a valid Navy ID you can join this program.",
+        "question2": "Is the app free to use?",
+        "answer2": "this app is completely free to use for Bangladesh Navy.",
+        "question3": "How do I sign up in the app?",
+        "answer3": "You can install Next.js using the command: npx create-next-app@latest my-app.You can install Next.js using the command: npx create-next-app@latest my-app.You can install Next.js using the command: npx create-next-app@latest my-app.",
+        "question4": "Who can join this program?",
+        "answer4": "If you are a retired Bangladesh Navy personnel and have a valid Navy ID you can join this program.",
+        "question5": "Is the app free to use?",
+        "answer5": "The app is completely free to use for Bangladesh Navy.",
+        "question6": "How do I sign up in the app?",
+        "answer6": "You can install Next.js using the command: npx create-next-app@latest my-app.You can install Next.js using the command: npx create-next-app@latest my-app.You can install Next.js using the command: npx create-next-app@latest my-app."
+      }
+    },
+
+    "CTA" : {
+      "title" : "Download the app to get started",
+      "desc" : "Join over 4,000+ veterans already in the program.",
+      "btnText" : "Download app"
+    },
+
+    "Gallery" : {
+      "title" : "Gallery",
+      "desc" : "Liberation war, Birth of BN and present activities of BN are projected in this section with several photography’s and videos",
+      "btnText" : "View all"
+    },
+
+    "FooterMenu" : {
+      "FooterInformation" : {
+        "navyHeadquarters" : "Naval Headquarters",
+        "officeLocation" : "Banani, Dhaka - 1213 Bangladesh"
+      },
+      "FooterTitle" : {
+        "sitemap" : "Sitemap",
+        "useFullLinks" : "Useful Links",
+        "importantGovtSites" : "Important Govt Sites"
+      },
+        "siteMap": {
+          "home" : "Home",
+          "about" : "About",
+          "gallery" : "Gallery",
+          "contact" : "Contact",
+          "downloadApp" : "Download app"
+        },
+        "useFullLinks": {
+          "bdArmy" : "Bangladesh Army",
+          "bdNavy" : "Bangladesh Navy",
+          "bdAirForce" : "Bangladesh Air Force",
+          "bgb" : "Border Guard Bangladesh",
+          "bcg" : "Bangladesh Coast Guard"
+        },
+        "importantGovtSites": {
+          "govtOfPeoplerb" : "Govt. of the People’s Republic of Bangladesh",
+          "ministryOfEducation" : "Ministry of Education",
+          "ministryOfFinance" : "Ministry of Finance",
+          "ministryOfForeignAffairs" : "Ministry of Foreign Affairs"
+        }
+    }
+
+  },
+
+  "About" : {
+    "Hero" : {
+      "title" : "Our mission is to help the people do more even after retirement",
+      "description" : "Your journey doesn’t end at the retirement."
+    },
+    "serviceOverView" : {
+      "overview1" : {
+        "count" : "4000+",
+        "title" : "In Program",
+        "desc" : "Already 4000+ members have joined the program."
+      },
+
+      "overview2" : {
+        "count" : "2000+",
+        "title" : "Job placements",
+        "desc" : "We’ve helped over 2000+ members land a job."
+      },
+
+      "overview3" : {
+        "count" : "30+",
+        "title" : "Trainings done",
+        "desc" : "30+ training sessions attended by our members."
+      }
+    },
+
+    "Gallery" : {
+      "btnText" : "View all"
+    }
+  },
+
+  "Contact" : {
+    "title" : "Contact",
+    "Label" : {
+      "fullName" : "Full Name",
+      "officialId" : "Official ID",
+      "Email" : "Email",
+      "phoneNumber" :  "Phone number",
+      "warningLabel" : "Your Navy phone number only",
+      "message" : "Message"
+    },
+    "Placeholder" : {
+      "fullName" : "Enter your name",
+      "officialId" : "Enter your name",
+      "Email" : "Enter your email",
+      "phoneNumber" :  "01xxx-xxxxxx",
+      "message" : "Leave us a message..."
+    },
+    "RequiredErrorMessage" : {
+      "fullName" : "Full Name is required",
+      "officialId" : "Official ID is required",
+      "Email" : "Email is required",
+      "EmailEx" : "Email is invalid",
+      "phoneNumber" :  "Phone number is required",
+      "phoneNumberEx" :  "Phone number is invalid",
+      "message" : "Message is required"
+    },
+    "buttonText" : "Send message",
+    "clickButtonText" : "Submitting"
+  },
+
+  "Common" : {
+    "btnText" : "Download app"
+  },
+
+
+
+
+  "LocaleLayout": {
+     "title": "bangadesh navy"
+  },
+  "LocaleSwitcher": {
+    "label": "English",
+    "locale": "{locale, select, bn {বাংলা} en {English} other {Unknown}}"
+  },
+  "Navigation": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "contact" : "Contact",
+    "about" : "About"
+  },
+  "NotFoundPage": {
+    "description": "Sorry, we can't find the page you're looking for. Please go back or return to the home page.",
+    "title": "Page not found",
+    "buttonTitle" : "Go back",
+    "buttonTitle2" : "Go home"
+  },
+  "Manifest": {
+    "name": "next-intl example"
+  }
+}
+
+

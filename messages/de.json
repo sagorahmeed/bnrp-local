@@ -1,0 +1,209 @@
+
+{
+
+
+  "Home" : {
+    "Hero" : {
+      "title" : "বাংলাদেশ নৌবাহিনী পুনর্বাসন প্রকল্প (বিএনআরপি) জীবনের শুরু এখানেই",
+      "description" : "এখনি বিএনআরপি কমিউনিটিতে যোগদান করুন এবং নতুন জীবন শুরু করুন। আজই আপনার নেভি আইডি দিয়ে বিনামূল্যে সাইন আপ এবং যোগদান করুন",
+      "contact-btn" : "যোগাযোগ করুন",
+      "download-btn" : "ডাউনলোড করুন"
+    },
+    "Service" : {
+      "label1" : "চাকরি তালিকা",
+      "label2" : "বার্তা",
+      "label3" : "প্রশিক্ষণ",
+      "label4" : "গ্যালারি "
+    },
+
+    "ServiceDetails" : {
+      "title" : "বাংলাদেশ নৌবাহিনীর পুনর্বাসন কর্মসূচি",
+      "titleDesc" : "অবসরপ্রাপ্ত সামরিক ও অসামরিক কর্মকর্তা, কর্মচারী ও নাবিকবৃন্দের পুনর্বাসনের লক্ষ্যে বাংলাদেশ নৌবাহিনী পুনর্বাসন প্রকল্প (বিএনআরপি) চালু করা হয়েছে। আমরা নিয়মিতভাবে বিভিন্ন ধরণের তথ্য দিয়ে কর্মসংস্থান, ব্যবসা, পুনর্বাসন ইত্যাদি কাজে সহায়তা করি। ক্ষেত্রবিশেষে আমরা বিশেষ উদ্যোগ নিয়ে পুনর্বাসন করি। এছাড়াও আমরা বিভিন্ন ধরণের প্রশিক্ষণ আয়োজন, সার্টিফিকেট ও যোগাযোগের জন্য মধ্যস্থতা/সহায়তা করে থাকি।",
+      "subTitle" : "চাকরির সুযোগ",
+      "subDesc" : "ইংরেজি অনুসারে হবে।",
+      "subTitle2" : "প্রশিক্ষণের সুযোগ",
+      "subDesc2" : "ইংরেজি অনুসারে হবে।"
+    },
+
+    "ChiefDetails" : {
+      "chiefBio" : "নৌবাহিনী প্রধান",
+      "chiefName" : "এডমিরাল এম নজমুল হাসান, ওএসপি, এনপিপি, এনডিসি, এনসিসি, পিএসসি",
+      "chiefBioDataDetails" : "Admiral M Nazmul Hassan, OSP, NPP, ndc, ncc, psc assumed the command of Bangladesh Navy as the 17th Chief of Naval Staff on 24th July 2023. Born on 2nd February 1967, the Admiral is a second-generation Military officer. Throughout his four-decade-long and illustrious career, he has demonstrated exemplary military acumen and leadership skills. He has commanded all types of naval ships, establishment and held appointments at higher headquarters with utmost dedication and success..\nAdmiral Nazmul has received extensive professional training in military strategies, operations, command and leadership from both at home and abroad. Some of his major professional courses include the \"Naval Command Course\" and “Naval Staff Course” at Naval War College, USA. He is a graduate of Defence Services Command and Staff College and an alumnus of National Defence College, Mirpur. The officer attained his specialization in Navigation from India. His academic qualifications include a Bachelor of Science degree from Chattogram University and Masters in Defence Studies from National University, Bangladesh.\nThe Admiral, being a passionate seafarer, proved himself worthy of being entrusted with the command responsibilities from the very early stage of his career in the Navy. He held the most coveted operational command of Bangladesh Navy Fleet as COMBAN. During his early career, he has successfully commanded a number of ships including Training Frigate BNS UMAR FAROOQ. His other operational command experiences include Commodore Naval Aviation and Commander of Special Forces (SWADS). As a senior staff officer, he served as Director Naval Operations and Director Naval Intelligence at the Naval Headquarters. He was also appointed as Director General, Civil-Military Relations at the Armed Forces Division. Before taking over the helm of the Navy, he was appointed as Assistant Chief of Naval Staff Personnel and Operations respectively.\nAs the Commander Chattogram Naval Area (COMCHIT), he commanded the largest naval area. During his tenure as COMCHIT, he performed a pivotal role in the International Fleet Review (IFR) 2022 and organized the same. Previously he was also appointed as the Commandant, Bangladesh Naval Academy.\nIn the international arena, Admiral Nazmul has extensively represented Bangladesh Navy in overseas engagements, including several international seminars and naval exercises. He is a proud \"Blue Flag\" bearer as a member of the UN in former Yugoslavia. The admiral is a proven diplomat too. He served as the High Commissioner of Bangladesh to the Republic of Maldives. As the High Commissioner, he made significant contributions towards the development of bilateral ties between Bangladesh and the Maldives.\nThe Admiral was awarded the ‘Extraordinary Service Medal’ (OSP) for his outstanding professional excellence. He was also adorned with the ‘Navy Efficiency Medal’ (NPP) – for his extra-ordinary academic performance and meritorious contribution to the service.\nAdmiral Nazmul is married to Nadia Sultana, who is serving as President, Bangladesh Navy Family Welfare Association and Chief Patron BN Ladies Club. They are blessed with a son and a daughter.  Admiral Nazmul is a vivid reader and a keen golfer.",
+      "btnText" : "আরো দেখুন ",
+      "btnText2" : "কম দেখুন "
+    },
+
+    "FeaturesDetails" : {
+      "featuresTitle" : "একটি অ্যাপ, সকল সুবিধা",
+      "FeaturesDetailsLists" : {
+        "title1" : "চাকরি তালিকা",
+        "desc1" : "আমাদের জব বোর্ড আপনার নৌবাহিনী অভিজ্ঞতা স্বীকৃতি এবং পুরস্কৃত করে এমন ক্যারিয়ার পথগুলিতে একচেটিয়া প্রবেশাধিকার প্রদান করে।",
+        "title2" : "প্রশিক্ষণ",
+        "desc2" : "বিশেষ প্রশিক্ষণ প্রোগ্রামগুলি চাকরি বাজারে স্থান তৈরি করে শিল্পে স্বীকৃত সার্টিফিকেট সহ।",
+        "title3" : "বার্তা",
+        "desc3" : "গুরুত্বপূর্ণ আপডেট এক নজরে দেখুন, সময়মতো খবর এবং সম্প্রচারের সাথে যুক্ত থাকুন এবং সবসময় আপডেটেড থাকুন।",
+        "title4" : "গ্যালারি",
+        "desc4" : "এই অংশে মুক্তিযুদ্ধ, বাংলাদেশ নৌবাহিনীর জন্ম এবং বর্তমান কার্যক্রম বিভিন্ন ছবির মাধ্যমে প্রদর্শিত হয়েছে"
+      }
+    },
+    "FAQ" : {
+      "faqTitle" : "সাধারণ প্রশ্নোত্তর",
+      "faqDetails" : {
+        "question": "কে এই প্রোগ্রামে যোগ দিতে পারে?",
+        "answer": "যদি আপনি একজন অবসরপ্রাপ্ত বাংলাদেশ নৌবাহিনী সদস্য হন এবং একটি বৈধ নৌবাহিনী আইডি থাকে, তাহলে আপনি এই প্রোগ্রামে যোগ দিতে পারবেন",
+        "question2": "অ্যাপটি ব্যবহার করা কি ফ্রি?",
+        "answer2": "অ্যাপটি বাংলাদেশ নৌবাহিনীর জন্য পুরোপুরি ফ্রি।",
+        "question3": "আমি কীভাবে এই অ্যাপে সাইন আপ করব?",
+        "answer3": "যদি আপনি একজন অবসরপ্রাপ্ত বাংলাদেশ নৌবাহিনী সদস্য হন এবং একটি বৈধ নৌবাহিনী আইডি থাকে, তাহলে আপনি এই প্রোগ্রামে যোগ দিতে পারবেন",
+        "question4": "এই প্রোগ্রামের সুবিধাসমূহ কী কী?",
+        "answer4": "যদি আপনি একজন অবসরপ্রাপ্ত বাংলাদেশ নৌবাহিনী সদস্য হন এবং একটি বৈধ নৌবাহিনী আইডি থাকে, তাহলে আপনি এই প্রোগ্রামে যোগ দিতে পারবেন",
+        "question5": "কিভাবে আমার অ্যাকাউন্টের ইমেইল আপডেট করব?",
+        "answer5": "যদি আপনি একজন অবসরপ্রাপ্ত বাংলাদেশ নৌবাহিনী সদস্য হন এবং একটি বৈধ নৌবাহিনী আইডি থাকে, তাহলে আপনি এই প্রোগ্রামে যোগ দিতে পারবেন",
+        "question6": "আরো তথ্যের জন্য কোথায় যোগাযোগ করবো?",
+        "answer6": "যদি আপনি একজন অবসরপ্রাপ্ত বাংলাদেশ নৌবাহিনী সদস্য হন এবং একটি বৈধ নৌবাহিনী আইডি থাকে, তাহলে আপনি এই প্রোগ্রামে যোগ দিতে পারবেন"
+      }
+    },
+
+    "CTA" : {
+      "title" : "অ্যাপটি ডাউনলোড করুন শুরু করার জন্য",
+      "desc" : "ইতিমধ্যে প্রোগ্রামে থাকা ৪,০০০+ অভিজ্ঞ ব্যক্তির সাথে যোগ দিন",
+      "btnText" : "ডাউনলোড করুন"
+    },
+
+    "Gallery" : {
+      "title" : "গ্যালারি",
+      "desc" : "এই অংশে মুক্তিযুদ্ধ, নৌবাহিনীর জন্ম এবং বর্তমান কার্যক্রম তুলে ধরা হয়েছে বিভিন্ন ছবির মাধ্যমে",
+      "btnText" : "সবগুলো দেখুন"
+    },
+    "FooterMenu" : {
+      "FooterInformation" : {
+        "navyHeadquarters" : "নৌবাহিনী সদরদপ্তর",
+        "officeLocation" : "বনানী, ঢাকা - ১২১৩, বাংলাদেশ"
+      },
+      "FooterTitle" : {
+        "sitemap" : "সাইটম্যাপ",
+        "useFullLinks" : "প্রয়োজনীয় লিংকসমূহ",
+        "importantGovtSites" : "গুরুত্বপূর্ণ সরকারি লিংকসমূহ"
+      },
+        "siteMap": {
+          "home": "হোম",
+          "about": "সম্পর্কিত",
+          "gallery": "গ্যালারি",
+          "contact": "যোগাযোগ",
+          "downloadApp": "অ্যাপ ডাউনলোড"
+        },
+        "useFullLinks": {
+          "bdArmy": "বাংলাদেশ সেনাবাহিনী",
+          "bdNavy": "বাংলাদেশ নৌবাহিনী",
+          "bdAirForce": "বাংলাদেশ বিমান বাহিনী",
+          "bgb": "বর্ডার গার্ড বাংলাদেশ",
+          "bcg": "বাংলাদেশ কোস্ট গার্ড"
+        },
+        "importantGovtSites": {
+          "govtOfPeoplerb": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার",
+          "ministryOfEducation": "শিক্ষা মন্ত্রণালয়",
+          "ministryOfFinance": "অর্থ মন্ত্রণালয়",
+          "ministryOfForeignAffairs": "পররাষ্ট্র মন্ত্রণালয়"
+        }
+}
+
+},
+
+  "About" : {
+    "Hero" : {
+      "title" : "আমাদের লক্ষ্য হল অবসর নেওয়ার পরেও নতুন কিছু করতে সাহায্য করা",
+      "description" : "আপনার যাত্রা অবসর গ্রহণের পরই  শেষ নয়"
+    },
+    "serviceOverView" : {
+      "overview1" : {
+        "count" : "৪০০০+",
+        "title" : "প্রোগ্রাম আছে",
+        "desc" : "ইতিমধ্যে ৪০০০+ সদস্য প্রোগ্রামে যোগ দিয়েছেন।"
+      },
+
+      "overview2" : {
+        "count" : "২০০০+",
+        "title" : "চাকরি নিয়োগ প্রাপ্ত",
+        "desc" : "আমরা ২০০০+ সদস্যকে চাকরি পেতে সাহায্য করেছি।"
+      },
+
+      "overview3" : {
+        "count" : "৩০+",
+        "title" : "প্রশিক্ষিত",
+        "desc" : "আমাদের সদস্যরা ৩০+ প্রশিক্ষণ সেশনে অংশগ্রহণ করেছেন"
+      }
+    },
+
+    "Gallery" : {
+      "btnText" : "সবগুলো দেখুন"
+    }
+  },
+  "Contact" : {
+    "title" : "যোগাযোগ ফর্ম",
+    "Label" : {
+      "fullName" : "আপনার নাম",
+      "officialId" : "অফিসিয়াল আইডি",
+      "Email" : "ইমেইল",
+      "phoneNumber" :  "ফোন নম্বর",
+      "warningLabel" : "Your Navy phone number only",
+      "message" : "মেসেজ"
+    },
+    "Placeholder" : {
+      "fullName" : "আপনার নাম লিখুন",
+      "officialId" : "আপনার অফিসিয়াল আইডি লিখুন",
+      "Email" : "আপনার ইমেইল লিখুন",
+      "phoneNumber" :  "01xxx-xxxxxx",
+      "warningLabel" : "শুধুমাত্র আপনার নৌবাহিনীর ফোন নম্বর",
+      "message" : "আপনার মেসেজটি লিখুন..."
+    },
+    "RequiredErrorMessage" : {
+      "fullName" : "পুরো নাম প্রয়োজন",
+      "officialId" : "অফিসিয়াল আইডি প্রয়োজন",
+      "Email" : "ইমেল প্রয়োজন",
+      "EmailEx" : "ইমেলটি অবৈধ",
+      "phoneNumber" :  "ফোন নম্বর প্রয়োজন",
+      "phoneNumberEx" :  "ফোন নম্বরটি অবৈধ",
+      "message" : "বার্তা প্রয়োজন"
+    },
+    "buttonText" : "মেসেজ পাঠান",
+    "clickButtonText" : "জমা দেওয়া হচ্ছে"
+  },
+
+  "Common" : {
+    "btnText" : "ডাউনলোড করুন"
+  },
+
+
+
+  "LocaleLayout": {
+    "title": "বাংলাদেশের নেভি"
+ },
+  "LocaleSwitcher": {
+    "label": "বাংলা",
+    "locale": "{locale, select, bn {বাংলা} en {English} other {Unbekannt}}"
+  },
+  "Navigation": {
+    "home": "হোম",
+    "gallery": "গ্যালারি",
+    "contact": "যোগাযোগ করুন",
+    "about" : "সম্পর্কিত"
+  },
+  "Gallery": {
+    "description": "এইটা গ্যালারি পেজ => Auch die Pfadnamen sind internationalisiert.",
+    "title": "এইটা গ্যালারি পেজ"
+  },
+  "NotFoundPage": {
+    "description": "দুঃখিত, আপনি যে পৃষ্ঠাটি খুঁজছেন তা আমরা খুঁজে পাচ্ছি না। দয়া করে ফিরে যান অথবা হোম পেজে ফিরে যান।",
+    "title": "পৃষ্ঠাটি খুঁজে পাওয়া যায়নি",
+    "buttonTitle" : "ফিরে যান",
+    "buttonTitle2" : "হোম পেজে ফিরে যান"
+  },
+  "Manifest": {
+    "name": ""
+  }
+  
+
+
+  
+
+}
