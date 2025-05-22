@@ -10,16 +10,24 @@ import NavigationLink from "../NavigationLink";
 import { useLocale } from 'next-intl';
 
 
-const InitialNavbar = ({ isMenuOpen, toggleMenu }) => {
+interface InitialNavbarProps {
+    isMenuOpen: boolean;
+    toggleMenu: () => void;
+}
+
+
+
+
+const InitialNavbar = ({ isMenuOpen, toggleMenu } : InitialNavbarProps) => {
     const t = useTranslations('Navigation');
     const btnTextF = useTranslations('Common')
     const pathName= usePathname()
     const locale = useLocale();
 
     const normalizedPath = pathName.replace(`/${locale}`, '') || '/';
-    const isActive = (href) => normalizedPath === href;
+    const isActive = (href : string) => normalizedPath === href;
 
-    const getLinkColor = (href) => {
+    const getLinkColor = (href : string) => {
         if (href === '/' && normalizedPath === '/') {
             return 'lg:text-white text-[#1B49DA]';
         }

@@ -4,11 +4,17 @@ import clsx from 'clsx';
 import { ComponentProps } from 'react';
 import { Link } from '@/i18n/navigation';
 
+interface NavigationLinkProps extends ComponentProps<typeof Link> {
+  className?: string;
+  href: any;
+}
+
+
 export default function NavigationLink({
   href,
   className,
   ...rest
-}: ComponentProps<typeof Link>) {
+}:NavigationLinkProps) {
   return (
     <Link
       className={clsx(

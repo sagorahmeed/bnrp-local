@@ -49,9 +49,16 @@ const FAQ = () => {
     );
 };
 
-const FAQItem = ({ question, answer, isLast }) => {
+
+interface FAQItemProps {
+    question: string;
+    answer: string;
+    isLast: boolean;
+}
+
+const FAQItem:React.FC<FAQItemProps> = ({ question, answer, isLast }) => {
     const [isOpen, setIsOpen] = useState(false);
-    const contentRef = useRef(null);
+    const contentRef = useRef<HTMLDivElement>(null);
 
     const toggle = () => setIsOpen(!isOpen);
 
@@ -73,7 +80,7 @@ const FAQItem = ({ question, answer, isLast }) => {
                 ref={contentRef}
                 className="overflow-hidden transition-all duration-300 ease-in-out"
                 style={{
-                    height: isOpen ? `${contentRef.current.scrollHeight}px` : '0px',
+                    height: isOpen && contentRef.current ? `${contentRef.current.scrollHeight}px` : '0px',
                 }}
             >
                 <p className="mt-2 text-[#475467] font-inter text-[16px] font-normal leading-[24px]">{answer}</p>

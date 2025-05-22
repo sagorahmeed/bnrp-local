@@ -27,7 +27,13 @@ import Image from 'next/image';
 import React from 'react';
 import NavigationLink from '../NavigationLink';
 
-export default function Logo({ src, className }) {
+
+interface LogoPropsType {
+  className?: string;
+  src: string;
+}
+
+export default function Logo({ src, className } : LogoPropsType) {
   return (
     <NavigationLink className={className} href="/">
       <Image

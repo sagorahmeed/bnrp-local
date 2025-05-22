@@ -4,7 +4,14 @@ import Image from 'next/image'
 import React from 'react'
 import FeatList from './FeatList'
 
-export default function FeaturesKey({src, title, description}) {
+interface FeaturesKeyPropsType {
+  src: string;
+  title: string;
+  description: string;
+}
+
+
+export default function FeaturesKey({src, title, description} : FeaturesKeyPropsType) {
   return (
     <ul className='flex gap-4 sm:items-start items-center'>
         <li className='p-3 rounded-full bg-[#EFF6FF] flex justify-center items-center min-w-12 h-12'>

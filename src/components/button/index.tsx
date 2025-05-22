@@ -2,7 +2,15 @@
 
 import React from 'react';
 
-export default function Button({ title, type = 'primary',className,onClick, isShowArrow }) {
+interface ButtonPropsType {
+  title: string;
+  type?: 'primary' | 'outline';
+  className?: string;
+  onClick?: () => void;
+  isShowArrow?: boolean;
+}
+
+export default function Button({ title, type = 'primary',className,onClick, isShowArrow } : ButtonPropsType) {
 
   const baseStyles = 'px-[18px] py-[10px] rounded-[8px] font-inter text-[16px] leading-[24px] font-semibold transition duration-200 border-[1px] border-[#92C2FE] sm:w-auto w-full';
   const primaryStyles = 'bg-primary text-white hover:opacity-85 border-[1px] border-primary';

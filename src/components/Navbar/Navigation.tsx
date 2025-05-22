@@ -1,8 +1,8 @@
 'use client'
 
 import { useState, useEffect } from 'react';
-import InitialNavbar from "../Navbar/InitialNavbar";
-import ScrolledNavbar from "../Navbar/ScrolledNavbar";
+import InitialNavbar from "./InitialNavbar";
+import ScrolledNavbar from "./ScrolledNavbar";
 
 export default function Navigation() {
     const [isMenuOpen, setIsMenuOpen] = useState(false);

@@ -2,7 +2,14 @@ import {useLocale, useTranslations} from 'next-intl';
 import {routing} from '@/i18n/routing';
 import LocaleSwitcherSelect from './LocaleSwitcherSelect';
 
-export default function LocaleSwitcher() {
+
+interface LocaleSwitcherProps {
+  isNavbarBgWhite?: boolean;
+}
+
+
+export default function LocaleSwitcher({isNavbarBgWhite}:LocaleSwitcherProps) {
+  console.log('isNavbarBgWhite', isNavbarBgWhite)
   const t = useTranslations('LocaleSwitcher');
   const locale = useLocale();
 

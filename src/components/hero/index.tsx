@@ -5,7 +5,12 @@ import Description from '../Description'
 import Title from '../Title'
 import Button from '../button'
 
-export default function Hero({wrapperClass, isTextWhite}) {
+interface HeroPropsType {
+  wrapperClass?: string;
+  isTextWhite?: boolean;
+}
+
+export default function Hero({wrapperClass, isTextWhite} : HeroPropsType) {
   const t = useTranslations('Home.Hero');
   return (
     <div className={`text-center ${wrapperClass}`}>

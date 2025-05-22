@@ -4,7 +4,7 @@ import React from 'react'
 
 interface SubTitlePropsType{
   title : string;
-  className : string;
+  className? : string;
 }
 
 export default function SubTitle({title,className} : SubTitlePropsType) {

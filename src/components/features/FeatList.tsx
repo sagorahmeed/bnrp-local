@@ -2,7 +2,12 @@
 
 import React from 'react'
 
-export default function FeatList({title, description}) {
+interface FeatListPropsType {
+  title: string;
+  description: string;
+}
+
+export default function FeatList({title, description} : FeatListPropsType) {
   return (
     <div>
         <span className='text-[#101828] font-inter text-[20px] font-semibold leading-[30px]'>{title}</span>

@@ -12,8 +12,6 @@ import {useTranslations} from "next-intl";
 export default function FeaturesDetails() {
 
     const t = useTranslations('Home.FeaturesDetails.FeaturesDetailsLists')
-    console.log('=====>>', t)
-
     const FeaturesData = [
         {
             "id": 1,
