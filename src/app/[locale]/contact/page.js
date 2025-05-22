@@ -56,7 +56,7 @@ const [errors, setErrors] = useState({});
 
    setIsSubmitting(false);
    try {
-     const response = await fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/api/v1/send-mail`, {
+     const response = await fetch(`https://bnrp.jouleslabs.com/api/v1/send-mail`, {
        method: 'POST',
        headers: {
          'Content-Type': 'application/json',
