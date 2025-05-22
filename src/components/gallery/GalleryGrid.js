@@ -67,7 +67,7 @@ export default function GalleryGrid({ gallery }) {
       }
 
       setArrOfCurrButtons(tempNumberOfButtons);
-  }, [currentPage, numOfPages, numOfButtons]);
+  }, [currentPage, numOfPages]);
 
     return (
       <div className='bg-white'>

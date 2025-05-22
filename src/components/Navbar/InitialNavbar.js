@@ -7,17 +7,20 @@ import Logo from "@/components/logo";
 import { useTranslations } from 'next-intl';
 import { usePathname } from 'next/navigation'
 import NavigationLink from "../NavigationLink";
+import { useLocale } from 'next-intl';
+
 
 const InitialNavbar = ({ isMenuOpen, toggleMenu }) => {
     const t = useTranslations('Navigation');
     const btnTextF = useTranslations('Common')
     const pathName= usePathname()
+    const locale = useLocale();
 
-    const normalizedPath = pathName.replace('/bn', '');
+    const normalizedPath = pathName.replace(`/${locale}`, '') || '/';
     const isActive = (href) => normalizedPath === href;
 
     const getLinkColor = (href) => {
-        if (href === '/' && normalizedPath === '') {
+        if (href === '/' && normalizedPath === '/') {
             return 'lg:text-white text-[#1B49DA]';
         }
         return isActive(href) ? '!text-[#1B49DA]' : '!text-[#909cb5]';

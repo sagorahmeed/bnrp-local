@@ -38,11 +38,11 @@ export default function LocaleSwitcherSelect({
   return (
     <label
       className={clsx(
-        'relative text-gray-400',
+        'relative text-[#667085] font-inter text-[16px] font-semibold leading-[24px]',
         isPending && 'transition-opacity [&:disabled]:opacity-30'
       )}
     >
-      <p className="sr-only">{label}</p>
+      <p className="sr-only text-[#667085] font-inter text-[16px] font-semibold leading-[24px]">{label}</p>
       <select
         className="inline-flex appearance-none bg-transparent py-3 pl-2 pr-6"
         defaultValue={defaultValue}

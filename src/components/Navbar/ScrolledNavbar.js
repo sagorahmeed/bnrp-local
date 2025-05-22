@@ -3,6 +3,7 @@
 import Button from "../button";
 import LocaleSwitcher from "../LocaleSwitcher";
 import Logo from "../logo";
+import { useLocale } from 'next-intl';
 import { useTranslations } from 'next-intl';
 import {usePathname} from "next/navigation";
 import NavigationLink from "../NavigationLink";
@@ -12,13 +13,15 @@ const ScrolledNavbar = ({ showStickyNav, isMenuOpen, toggleMenu }) => {
     const pathName= usePathname()
     const t = useTranslations('Navigation');
     const btnTextF = useTranslations('Common')
+    const locale = useLocale();
 
 
-    const normalizedPath = pathName.replace('/bn', '');
+    // const normalizedPath = pathName.replace('/en', '');
+    const normalizedPath = pathName.replace(`/${locale}`, '') || '/';
     const isActive = (href) => normalizedPath === href;
 
     const getLinkColor = (href) => {
-        if (href === '/' && normalizedPath === '') {
+        if (href === '/' && normalizedPath === '/') {
             return 'text-[#1B49DA]';
         }
         return isActive(href) ? '!text-[#1B49DA]' : '!text-[#909cb5]';

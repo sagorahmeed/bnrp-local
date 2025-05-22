@@ -6,7 +6,10 @@
 @tailwind components;
 @tailwind utilities;
 
-
+.active {
+  color: red; /* Change to your desired active color */
+  font-weight: bold;
+}
 .bnrp-container{
   max-width: 1332px;
   margin: auto;
