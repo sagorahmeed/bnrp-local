@@ -8,6 +8,7 @@ interface ButtonPropsType {
   className?: string;
   onClick?: () => void;
   isShowArrow?: boolean;
+  disabled?: boolean;
 }
 
 export default function Button({ title, type = 'primary',className,onClick, isShowArrow } : ButtonPropsType) {
